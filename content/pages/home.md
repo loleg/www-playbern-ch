@@ -13,7 +13,7 @@ blocks:
       Game-Hintergrund: bei PlayBern können alle mitspielen!
 
 
-      ## PlayBern 2024 wird vom 8.-10.November im [Kornhaus
+      ## PlayBern 2024 wird vom 8.-10.November im 2.Stock im [Kornhaus
       ](https://kornhausforum.ch/de/about/kornhausforum/ "Kornhaus Bern")in Bern
       stattfinden.
 
