@@ -18,6 +18,10 @@ blocks:
       stattfinden.
 
 
+      ## Diese Site wird überarbeitet und das Programm 24  wird im Oktober
+      aufgeschaltet. 
+
+
       ### Let's Move!
 
 
@@ -36,8 +40,7 @@ blocks:
 
 
       Jury ist das Publikum. [Erfahre hier
-      mehr!](/PlayBern-Kindergame-Preis-2024 "PlayBern
-      KIndergamespreis 2024")
+      mehr!](/PlayBern-Kindergame-Preis-2024 "PlayBern KIndergamespreis 2024")
     actions:
       - label: Bildergalerie
         type: button
